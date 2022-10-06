@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+:root{
+    /* Colors */
+    /* Primary */
+    --darkCyan-background: hsl(185, 75%, 39%);
+    --veryDarkDesaturatedBlue-title: hsl(229, 23%, 23%);
+    --darkGrayishBlue-paragraph: hsl(227, 10%, 46%);
+    /* Neutral */
+    --darkGray-line: hsl(0, 0%, 59%);
+}
