@@ -50,6 +50,7 @@ main{
     z-index: 2;
     text-align: center;
     position: relative;
+    box-shadow: 0 5px 25px #6b6b6b7e;
 }
 .card__img-banner{
     width: 100%;
